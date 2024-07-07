@@ -6,7 +6,7 @@ This is a general guide about the lab value, culture and expectations that we ca
 
 - **Excellence:** We aim at scientific excellence, regardless the specific research question we are trying to answer, we strive to maintain the highest level of scientific integrity, and continuously develop and learn new techniques and theories. 
 
-- **Open and collaborative practicies:** We aim at a science that is open and collaborative, we spend a significant amount of time making our dataset and code available to the scientific community.
+- **Open and collaborative practice:** We aim at a science that is open and collaborative, we spend a significant amount of time making our dataset and code available to the scientific community.
 
 - **Inclusivity:** We aim at fostering a team that is inclusive and to investigate mechanisms on inclusive and diverse samples and to promote inclusive communication. The lab should be a safe space in which every member belongs and thrives.
 
