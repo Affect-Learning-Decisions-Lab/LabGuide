@@ -25,7 +25,7 @@ We support hybrid work, we work from Campus Biotech Mondays, Tuesdays and Friday
 
 ## Lab meetings
 
-We meet every Tuesday at 14 pm on Campus Biotech.
+We meet every Tuesday at 2 pm on Campus Biotech.
 
 
 ## Expectations
