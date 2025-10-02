@@ -39,23 +39,4 @@ We meet every Tuesday at 2 pm on Campus Biotech.
 - **Expectations of Master student:** Master students are critical contributors to our research. We value the effort you put into the lab and reward it with training, experience, letters of recommendation, mentoring, and potentially authorship. You will generally work on projects led by others within the lab. However, you should strive, and we encourage you, to make intellectual contributions to the projects you work on. Master students are expected to participate to lab meeting and lab activities and to commit to a minimum number of hours over a set period of time; please discuss this with me. Please develop your weekly schedule by talking to your individual mentor.
 
 
-## Master’s Students Timeline
 
-### Year 1
-- **October–December:** Literature review
-- **January–February:** Study and design planning
-- **March:** Progress meeting 1 
-- **April:** Submit ethics application
-- **April–June:** Prepare M1 presentation and begin programming task
-
-
-### Year 2
-- **August:** Finalize programming task
-- **September–February:** Start writting the thesis
-- **December:** Complete first versions of thesis sections:
-  - Introduction (including related work)
-  - Methods section
-- **February–April:** Data collection and analysis
-- **May:** Progress meeting 2
-- **May–June:** Finish writing thesis, preparation of defense presentation
-- **July–September:** Buffer time 
