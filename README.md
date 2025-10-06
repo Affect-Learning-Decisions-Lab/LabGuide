@@ -36,3 +36,5 @@ We meet on Tuesday at Campus Biotech to discuss about science, touch base on pro
 
 - **Expectations of Master student:** Master students are critical contributors to our research. We value the effort you put into the lab and reward it with training, experience, letters of recommendation, mentoring, and potentially authorship. You will generally work on projects led by others within the lab. However, you should strive, and we encourage you, to make intellectual contributions to the projects you work on. Master students are expected to participate to lab meeting and lab activities and to commit to a minimum number of hours over a set period of time; please discuss this with me. Please develop your weekly schedule by talking to your individual mentor.
 
+
+
