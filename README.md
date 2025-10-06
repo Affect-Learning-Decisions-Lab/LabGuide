@@ -16,16 +16,14 @@ This is a general guide about the lab value, culture and expectations that we ca
 
 
 
-
-
 ## Workflow
 
-We support hybrid work, we work from Campus Biotech Mondays, Tuesdays and Fridays. We are flexible when it comes to when and where to work: as long as the team is properly informed, working remotely and at different times is welcome.
+We support hybrid work, we work from Campus Biotech Mondays, Tuesdays, Thursdays and Fridays. We are flexible when it comes to when and where to work: as long as the team is properly informed, working remotely and at different times is welcome. We value each other time, therefore we are always on time at meetings.
 
 
 ## Lab meetings
 
-We meet every Tuesday at 2 pm on Campus Biotech.
+We meet on Tuesday at Campus Biotech to discuss about science, touch base on project progress, and practical issues. All lab members (except master students in psychology) are expected to attend every meeting. If we decide to discuss a paper, everyone come to the lab meeting having read the paper and prepared with comments and questions to contribute.
 
 
 ## Expectations
